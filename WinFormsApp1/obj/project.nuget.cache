@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6k46AkIEJHl/Tidtaxo1epLwRp5nMH4VCIhSEn3/ghC7UJmvVFhADc5RXXdHYHzrjpSju1TfG4OiB9b25j7NQ==",
+  "dgSpecHash": "kHBx3wkrgitmrsakcs/sIktzfCSQhqbiJHrjgdIMh+mW+aJhYVqwPBNG3exepUPJAkyv/nsZCi6b7aH0AUd1dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Buffed_nutt\\Desktop\\ShapeCreatorWindowsForms\\WinFormsApp1\\WinFormsApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Buffed_nutt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\Buffed_nutt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\Buffed_nutt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\Buffed_nutt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\test\\ShapeCreator\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
